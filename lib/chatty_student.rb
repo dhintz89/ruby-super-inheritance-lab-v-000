@@ -1,3 +1,3 @@
 class ChattyStudent < Student
-  
-  fe
+
+  def hello
